@@ -5,12 +5,14 @@ Husky ADAPT Lend a hand
 # LOGO
 
 # Group PROJECT 
-Husky ADAPT repo: please add your team description here!
+Team Lend a Hand is focused on developing a further iteration of an existing 3D printed wrist driven orthosis, used by persons with spinal cord injuries. 
 
-Project Pages site HuskyADAPT.github.io/<GroupName>	
-you can change what's on the website by either changing the markdown file on master or a /docs folder on master
+https://pinshape.com/items/25313-3d-printed-3d-printed-wrist-driven-orthosis-wdo is an existing design that we are using for a starting point/inspiration. This orthosis was also develop at the University of Washington.
+
+
 
 
 ## Screenshots
 
 ## Authors
+Yuri Hudak and Dana Honstain
